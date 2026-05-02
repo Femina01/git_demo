@@ -1,0 +1,10 @@
+This is a demo on how to create a folder using commands
+
+mkdir folder name(new)
+ls
+cd foldername
+pwd
+ls
+touch
+nano
+
